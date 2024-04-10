@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Chatterblock and OneWed](Chatterblock.com, OneWed.com)
 
-- 🌱 I’m currently learning ** AWS, Node Js**
+- 🌱 I’m currently learning **AWS, Node Js**
 
-- 💬 Ask me about **React, JavaScript, Django,Python**
+- 💬 Ask me about **React, JavaScript, Django, Python**
 
 - 📫 How to reach me **jbogere414@gmail.com**
 
